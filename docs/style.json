@@ -23,7 +23,6 @@
         "tiles": [
           "https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/{z}/{x}/{y}.pbf"
         ],
-        "url": "mapbox://mapbox.mapbox-streets-v7",
         "type": "vector"
       }
     },
