@@ -255,7 +255,7 @@
       {
         "id": "landformp",
         "layout": {
-          "icon-image": "refugee"
+          "icon-image": "標高点（測点）"
         },
         "paint": {},
         "source": "v",
@@ -265,7 +265,7 @@
       {
         "id": "transp",
         "layout": {
-          "icon-image": "bus_station"
+          "icon-image": "標高点（測点）"
         },
         "paint": {},
         "source": "v",
@@ -275,7 +275,7 @@
       {
         "id": "symbol",
         "layout": {
-          "icon-image": "default"
+          "icon-image": "標高点（測点）"
         },
         "paint": {},
         "source": "v",
@@ -285,7 +285,7 @@
       {
         "id": "label",
         "layout": {
-          "icon-image": "un"
+          "icon-image": "標高点（測点）"
         },
         "paint": {},
         "source": "v",
