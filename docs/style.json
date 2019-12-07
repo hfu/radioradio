@@ -11,6 +11,7 @@
         },
         "mapbox:groups": {}
     },
+    "sprite": "https://un-vector-tile-toolkit.github.io/kawagoe/sprite/std",
     "center": [139.71, 35.70],
     "zoom": 8,
     "bearing": 0,
