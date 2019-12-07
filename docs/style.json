@@ -26,7 +26,6 @@
         "type": "vector"
       }
     },
-    "sprite": "mapbox://sprites/hfu/ck3awhhd81jn01cqidr247192/ck2u8j60r58fu0sgyxrigm3cu",
     "glyphs": "https://optgeo.github.io/bvmap714/fonts/{fontstack}/{range}.pbf",
     "layers": [
       {
