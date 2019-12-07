@@ -18,13 +18,8 @@
     "pitch": 0,
     "sources": {
       "v": {
-        "attribution": "Source: GSI Maps Vector",
-        "maxzoom": 14,
-        "minzoom": 7,
-        "tiles": [
-          "https://cyberjapandata.gsi.go.jp/xyz/experimental_bvmap/{z}/{x}/{y}.pbf"
-        ],
-        "type": "vector"
+        "type": "vector",
+        "url": "https://hfu.github.io/radioradio/tile.json"
       }
     },
     "glyphs": "https://optgeo.github.io/bvmap714/fonts/{fontstack}/{range}.pbf",
